@@ -1,0 +1,1 @@
+// Synchronisation des données côté client (si nécessaire)
